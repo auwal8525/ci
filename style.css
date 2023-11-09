@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(245, 235, 217) ;
+}
+img{
+    border-style:dotted;
+    border-radius:200px;
+    border: 1px solid;
+    border-color: rgb(176, 226, 142);
+    border-width:1px;
+}
+table{
+    padding-top:1px;
+}
